@@ -92,8 +92,7 @@ This CocoaPods library helps you perform with React-native AppleHealthKit.
   #  Not including the public_header_files will make all headers public.
   #
 
-  spec.source_files  = "Classes", "Classes/**/*.{h,m}"
-  spec.exclude_files = "Classes/Exclude"
+  spec.source_files  = "AppleHealthKit/*.{h,m}"
 
   # spec.public_header_files = "Classes/**/*.h"
 
